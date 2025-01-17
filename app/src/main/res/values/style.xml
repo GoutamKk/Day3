@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundImg" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomRight">45dp</item>
+        <item name="cornerSizeBottomLeft">45dp</item>
+        <item name="color">#0000FFFF</item>
+    </style>
+</resources>
